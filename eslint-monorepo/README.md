@@ -22,7 +22,7 @@ Lint Typescript / JavaScript code in Monorepo
     ```
 1. Add sample `.ts` files to the `ROOT` and nested `packages/ui-kit`, `packages/constants` and `apps/app` folders with the same content
     ```typescript
-    export const foo = 'bar
+    export const foo = 'bar'
     ```
 1. On this step you should get the next file structure
     ``` 
