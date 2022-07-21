@@ -40,7 +40,7 @@ Lint Typescript / JavaScript code in Monorepo
             └── package.json
     ```
 1. Add to the `ROOT` folder required dependencies and config files
-    1. Add `TypeScript` and it`s recommended config to dependencies
+    1. Add `TypeScript` and its recommended config to dependencies
         ```
         npm install --save-dev \
           typescript \
@@ -52,7 +52,7 @@ Lint Typescript / JavaScript code in Monorepo
           "extends": "@tsconfig/recommended/tsconfig.json"
         }
         ```
-    1. Add `ESLint` and it`s [Standard](https://standardjs.com/) config with Typescript support
+    1. Add `ESLint` and its [Standard](https://standardjs.com/) config with Typescript support
         ```
         npm install --save-dev \
           eslint \
@@ -101,4 +101,4 @@ Lint Typescript / JavaScript code in Monorepo
         ```
     3. [TBD] staged changes on commit
     4. [TBD] staged changes on CI
-1. That`s it!
+1. That's it!
