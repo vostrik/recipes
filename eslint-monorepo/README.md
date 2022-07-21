@@ -97,7 +97,7 @@ Lint Typescript / JavaScript code in Monorepo
         ```
     2. To lint specific directory
         ```
-        npm eslint .
+        npx eslint .
         ```
     3. [TBD] staged changes on commit
     4. [TBD] staged changes on CI
